@@ -1,4 +1,5 @@
 # Documento de Requisitos de Software
+Raiden Makio Tomori
 
 ## 1. Introducción.
 
